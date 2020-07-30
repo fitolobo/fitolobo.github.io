@@ -19,6 +19,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+### Para agregar codigo Latex
+[conversor](https://jsfiddle.net/8ndx694g/)
+
 ```markdown
 Syntax highlighted code block
 
