@@ -17,7 +17,7 @@
 
 ---
 [Ejercicios Interesantes](/sample_page.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/fondo.jpg?raw=true"/>
 
 ---
 
