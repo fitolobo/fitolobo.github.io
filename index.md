@@ -1,4 +1,4 @@
-<div class="text-purple">Faw püle eymi pepi petukean: fentren matematika chilkatuam!</div>
+## Faw püle eymi pepi petukean: fentren matematika chilkatuam!
 ## Por aquí siempre encontrarás: muchas matemáticas para estudiar!
 ---
 
