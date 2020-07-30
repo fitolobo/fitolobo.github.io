@@ -4,8 +4,8 @@
 
 ### Material
 
-[Matemáticas Enseñanza Básica](/sample_page)
-<img src="pdf/Curso_Isidora(1).pdf?raw=true"/>
+[Matemáticas Enseñanza Básica](/pdf/Curso_Isidora(1).pdf)
+<img src="images/WhatsApp Image 2020-07-10 at 19.40.12.jpeg?raw=true"/>
 
 ---
 [Matemáticas Enseñanza Media](/pdf/sample_presentation.pdf)
