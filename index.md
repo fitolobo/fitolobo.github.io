@@ -4,15 +4,15 @@
 
 ### Material
 
-[Project 1 Title](/sample_page)
+[Matemáticas Enseñanza Básica](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Matemáticas Enseñanza Media](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Estadistica a lo Maldito](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -20,26 +20,24 @@
 
 ### Cursos
 
-[Project 1 Title](/sample_page)
+[EDPs](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Métodos Numéricos](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Biomatemáticas](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Proyectos
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Redes Neuronales Hipercomplejas](http://example.com/)
+- [Ensamble RCAM](http://example.com/)
+
 
 ---
 
