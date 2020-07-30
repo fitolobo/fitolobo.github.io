@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Matemáticas Enseñanza Media](/pdf/sample_presentation.pdf)
+[Matemáticas Enseñanza Media](/pdf/Curso_Maite.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
