@@ -50,4 +50,4 @@ endfunction
 
 ### 4. Tendrá salución única?, algún método directo?
 
-<img src="https://render.githubusercontent.com/render/math?math=%5CLARGE%20x%5E%7Bx%7D%5E%7Bx%7D%20%3D%20%5Cleft(%5Cfrac%7B1%7D%7B2%7D%5Cright)%5E%7B%5Csqrt%7B2%7D%7D">
+<img src="https://render.githubusercontent.com/render/math?math=%5CLARGE%20x%5E%7Bx%5E%7Bx%7D%7D%20%3D%20%5Cleft(%5Cfrac%7B1%7D%7B2%7D%5Cright)%5E%7B%5Csqrt%7B2%7D%7D">
