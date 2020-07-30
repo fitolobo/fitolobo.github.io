@@ -5,7 +5,7 @@
 ### Material
 
 [Matemáticas Enseñanza Básica](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="pdf/Curso_Isidora(1).pdf?raw=true"/>
 
 ---
 [Matemáticas Enseñanza Media](/pdf/sample_presentation.pdf)
