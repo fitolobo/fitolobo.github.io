@@ -1,5 +1,5 @@
-## Faw püle eymi pepi petuken: fentren matematika kudaw!
-
+## Faw püle eymi pepi petukean: fentren matematika chilkatuam!
+## Por aquí siempre encontrarás: muchas matemáticas para estudiar!
 ---
 
 ### Material
@@ -16,7 +16,10 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Ejercicios Interesantes](/sample_page.md)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
+---
 
 ### Cursos
 
