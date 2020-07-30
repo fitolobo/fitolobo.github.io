@@ -9,7 +9,7 @@
 
 ---
 [Matemáticas Enseñanza Media](/pdf/Curso_Maite.pdf)
-<img src="pdf/tikz_2.pdf?raw=true"/>
+<img src="images/tikz.png?raw=true"/>
 
 ---
 [Estadistica a lo Maldito](http://example.com/)
