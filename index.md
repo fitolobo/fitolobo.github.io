@@ -4,7 +4,7 @@
 
 ### Material
 
-[Matemáticas Enseñanza Básica](/pdf/Curso_Isidora(1).pdf)
+[Matemáticas Enseñanza Básica](/pdf/Curso_Isidora.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
