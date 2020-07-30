@@ -1,16 +1,12 @@
 ## Ejercicios Interesantes
 
-**En esta sección encontrarás:** Ejercicios que he encontrado en la red y considero interensates. La mayoría de olimpíadas.  
+**En esta sección encontrarás:** Ejercícios que he encontrado en la red que consideré interensates. La mayoría de olimpíadas.  
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. April Fools day
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Tricky equal sign.
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
 ### 2. Assess assumptions on which statistical inference will be based
 
