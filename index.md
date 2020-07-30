@@ -12,7 +12,7 @@
 <img src="images/tikz.png?raw=true"/>
 
 ---
-[Estadistica a lo Maldito](http://example.com/)
+[Estadistica a lo Maldito](/pdf/main.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -27,7 +27,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Métodos Numéricos](/pdf/sample_presentation.pdf)
+[Métodos Numéricos](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
