@@ -5,7 +5,7 @@
 ### Material
 
 [Matemáticas Enseñanza Básica](/pdf/Curso_Isidora.pdf)
-<img src="images/juego.png?raw=true" style="width: 20vw; min-width: 100px;" alt="Logo" />
+<img src="images/juego.png?raw=true" style="width: 30vw; min-width: 150px;" alt="Logo" />
 
 ---
 [Matemáticas Enseñanza Media](/pdf/Curso_Maite.pdf)
