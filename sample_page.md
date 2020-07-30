@@ -6,7 +6,7 @@
 
 Tricky equal sign.
 
-<img src="https://render.githubusercontent.com/render/math?math= e - \frac{e}{\pi}+\frac{e}{\pi^2}-\frac{e}{\pi^3}+\frac{e}{\pi^4}-\frac{e}{\pi^5}...= -1">
+<img src="https://render.githubusercontent.com/render/math?math= e - \frac{e}{\pi}=-1">
 
 ### 2. Assess assumptions on which statistical inference will be based
 
