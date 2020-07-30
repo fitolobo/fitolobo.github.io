@@ -5,7 +5,7 @@
 ### Material
 
 [Matemáticas Enseñanza Básica](/pdf/Curso_Isidora(1).pdf)
-<img src="images/WhatsApp Image 2020-07-10 at 19.40.12.jpeg?raw=true"/>
+<img src="images/WhatsApp_Image_2020-07-10_at_19.40.12.jpeg?raw=true"/>
 
 ---
 [Matemáticas Enseñanza Media](/pdf/sample_presentation.pdf)
