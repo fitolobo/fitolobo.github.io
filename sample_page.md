@@ -10,13 +10,42 @@ Tricky equal sign.
 
 ### 2. Uma pequena equação
 
-<img src="https://render.githubusercontent.com/render/math?math=%5CLARGE%206%5Csqrt%5Bx%5D%7B9%7D-13%5Csqrt%5Bx%5D%7B6%7D%2B6%5Csqrt%5Bx%5D%7B4%7D%3D0">
+<img src="https://render.githubusercontent.com/render/math?math=6%20%5Csqrt%5Bx%5D%7B9%7D%20-%2013%20%5Csqrt%5Bx%5D%7B6%7D%20%2B%206%5Csqrt%5Bx%5D%7B4%7D%20%3D%200">
 
 
 ### 3. O que faz este código de Octave?
 
 ```octave
-if i=1:20
+a = 1; b = 5;
+expo = 10
+
+xr0 = (a * fun(b) - b*fun(a))/(fun(b)-fun(a));
+
+epsilon = 10^(-expo); 
+xr = xr0 ;
+
+c = 0; 
+itmax = 20;
+
+while fun(xr)>epsilon 
+  
+  if fun(a)*fun(xr)<0
+    b = xr;
+  else
+    a = xr;
+  endif
+  
+  xr = (a * fun(b) - b*fun(a))/(fun(b)-fun(a));
+  
+  c = c+1;
+ 
+  if c>itmax
+    break endif
+endwhile
+
+function y = fun(x)
+  y = (1/log(x+1.2))-(0.025*(x-1)^2.3);
+endfunction
 ```
 
 ### 4. Provide a basis for further data collection through surveys or experiments
