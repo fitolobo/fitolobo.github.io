@@ -13,7 +13,7 @@
 
 ---
 [Estadistica a lo Maldito](/pdf/main.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/meme.jpeg?raw=true"/>
 
 ---
 [Ejercicios Interesantes](/sample_page.md)
