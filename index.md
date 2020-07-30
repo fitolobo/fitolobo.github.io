@@ -1,4 +1,4 @@
-## Faw püle eymi pepi petuken: pu matematika kudaw!
+## Faw püle eymi pepi petuken: fentren matematika kudaw!
 
 ---
 
