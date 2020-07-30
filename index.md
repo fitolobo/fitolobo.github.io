@@ -1,4 +1,4 @@
-## Faw püle eymi pepi petukean: fentren matematika chilkatuam!
+## Faw püle fente müleay matematika pingechi kimün ta mi chillkatuam!
 ## Por aquí siempre encontrarás: muchas matemáticas para estudiar!
 ---
 
