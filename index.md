@@ -20,7 +20,7 @@
 
 ### Cursos
 
-[EDPs](/sample_page)
+[EDPs](/pdf/EDP.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
