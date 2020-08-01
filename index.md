@@ -31,6 +31,10 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Análisis Numérico](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 [Biomatemáticas](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
