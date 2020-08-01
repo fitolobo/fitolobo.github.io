@@ -24,7 +24,7 @@
 ### Cursos
 
 [EDPs](/pdf/EDP.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/wave.jpg?raw=true"/>
 
 ---
 [Métodos Numéricos](http://example.com/)
