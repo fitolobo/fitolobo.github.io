@@ -32,7 +32,7 @@
 
 ---
 [Análisis Numérico](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/real.png?raw=true"/>
 
 ---
 [Biomatemáticas](http://example.com/)
