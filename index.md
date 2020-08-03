@@ -12,7 +12,7 @@
 <img src="images/tikz.png?raw=true"/>
 
 ---
-[Estadistica a lo Maldito](/pdf/main.pdf)
+[Estadistica a lo Maldito](http://example.com/)
 <img src="images/meme.jpeg?raw=true"/>
 
 ---
