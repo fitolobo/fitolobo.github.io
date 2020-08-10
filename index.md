@@ -31,7 +31,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Análisis Numérico](http://example.com/)
+[Análisis Numérico](/sample_page.html)
 <img src="images/real.png?raw=true"/>
 
 ---
