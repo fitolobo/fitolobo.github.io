@@ -27,7 +27,7 @@
 <img src="images/wave.jpg?raw=true"/>
 
 ---
-[Métodos Numéricos](http://example.com/)
+[Métodos Numéricos](/sample_page_3.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
