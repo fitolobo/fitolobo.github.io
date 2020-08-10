@@ -12,7 +12,7 @@
 <img src="images/tikz.png?raw=true"/>
 
 ---
-[Estadistica a lo Maldito](http://example.com/)
+[Estadistica a lo Maldito](/sample_page_3.html)
 <img src="images/meme.jpeg?raw=true"/>
 
 ---
@@ -35,15 +35,15 @@
 <img src="images/real.png?raw=true"/>
 
 ---
-[Biomatemáticas](http://example.com/)
+[Biomatemáticas](/sample_page_3.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Proyectos
 
-- [Redes Neuronales Hipercomplejas](http://example.com/)
-- [Ensamble RCAM](http://example.com/)
+- [Redes Neuronales Hipercomplejas](/sample_page_3.html)
+- [Ensamble RCAM](/sample_page_3.html)
 
 
 ---
