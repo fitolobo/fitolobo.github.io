@@ -3,10 +3,10 @@
 ---
 ### Proyectos
 
-- [Redes Neuronales Hipercomplejas](/https://github.com/fitolobo)
+- [Redes Neuronales Hipercomplejas](https://github.com/fitolobo)
 
 ---
-- [Ensamble RCAM](/https://www.youtube.com/watch?v=UUG2lNxfjpI&t=2s) 
+- [Ensamble RCAM](https://www.youtube.com/watch?v=UUG2lNxfjpI&t=2s) 
 
 ---
 
