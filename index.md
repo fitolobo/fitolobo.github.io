@@ -1,10 +1,14 @@
 ## Faw püle fente müleay matematika pingechi kimün ta mi chillkatuam!
 ## Por aquí siempre encontrarás: muchas matemáticas para estudiar!
+
+### Publications
+- [Valle, M. E., & Lobo, R. A. (2020). Quaternion-Valued Recurrent Projection Neural Networks on Unit Quaternions. arXiv preprint arXiv:2001.11846.](https://www.sciencedirect.com/science/article/pii/S0304397520304989?via%3Dihub)
 ---
-### Proyectos
+### Julia Codes
 
 - [Redes Neuronales Hipercomplejas](https://github.com/fitolobo)
 
+### Last Projects
 ---
 - [Ensamble RCAM](https://www.youtube.com/watch?v=UUG2lNxfjpI&t=2s) 
 
