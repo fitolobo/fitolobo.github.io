@@ -11,6 +11,8 @@
 
 - [Sánchez, D. E., Palma, J. M., Lobo, R. A., Meyer, J. F., Morais, C. F., Rojas-Palma, A., & Oliveira, R. C. (2019, November). Modeling and Stability Analysis of Salmon Mortality due to Microalgae Bloom using Linear Parameter-Varying Structure. In 2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering, Information and Communication Technologies (CHILECON) (pp. 1-6). IEEE.](https://www.researchgate.net/publication/335809207_Free_Mechanical_Vibrations_Models_via_p-fuzzy_Systems)
 
+- [Morillo, C. C. E., Carrasco, R. A. L., & da Costa Meyer, J. F. (2018). Dinâmica de HIV e posterior AIDS. Proceeding Series of the Brazilian Society of Computational and Applied Mathematics, 6(2).](https://www.researchgate.net/publication/329788475_Dinamica_de_HIV_e_posterior_AIDS)
+
 ---
 ### Códigos en Julia de Redes Hipercomplejas
 
