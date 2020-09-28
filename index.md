@@ -16,7 +16,7 @@
 
 - [Redes Neuronales Hipercomplejas](https://github.com/fitolobo)
 
-### Ùltimas presentaciones 
+### Últimas presentaciones 
 ---
 - [Ensamble RCAM](https://www.youtube.com/watch?v=UUG2lNxfjpI&t=2s) 
 
