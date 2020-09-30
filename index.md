@@ -1,4 +1,3 @@
----
 ### Publicaciones
 ---
 - [Valle, M. E., & Lobo, R. A. (2020). Quaternion-Valued Recurrent Projection Neural Networks on Unit Quaternions. arXiv preprint arXiv:2001.11846.](https://www.sciencedirect.com/science/article/pii/S0304397520304989?via%3Dihub)
