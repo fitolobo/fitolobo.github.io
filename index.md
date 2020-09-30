@@ -1,4 +1,6 @@
+---
 ### Publicaciones
+---
 - [Valle, M. E., & Lobo, R. A. (2020). Quaternion-Valued Recurrent Projection Neural Networks on Unit Quaternions. arXiv preprint arXiv:2001.11846.](https://www.sciencedirect.com/science/article/pii/S0304397520304989?via%3Dihub)
 
 - [Valle, M. E., & Lobo, R. A. (2020). Hypercomplex-Valued Recurrent Correlation Neural Networks. arXiv preprint arXiv:2002.00027.](https://www.researchgate.net/publication/339015274_Hypercomplex-Valued_Recurrent_Correlation_Neural_Networks)
@@ -15,11 +17,14 @@
 
 ---
 ### Códigos en Julia de Redes Hipercomplejas
+---
 
 - [Redes Neuronales Hipercomplejas](https://github.com/fitolobo)
 
+---
 ### Últimas presentaciones 
 ---
+
 - [Ensamble RCAM](https://www.youtube.com/watch?v=UUG2lNxfjpI&t=2s) 
 
 - [QRPNNs](/pdf/BRACIS_19_Presentacion.pdf) 
@@ -27,10 +32,9 @@
 - [A Brief Tutorial on Quadratic Stability of Linear Parameter-Varying Model for Biomathematical Systems](/pdf/SLIDE_206_jmp.pdf) 
 
 ---
-
 ### [Cursos](/sample_page5.html)
-
+---
 ### [Material](/sample_page6.html)
-
+---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
