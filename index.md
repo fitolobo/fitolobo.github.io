@@ -2,7 +2,7 @@
 ---
 - [Valle, M. E., & Lobo, R. A. (2020). Quaternion-Valued Recurrent Projection Neural Networks on Unit Quaternions. arXiv preprint arXiv:2001.11846.](https://www.sciencedirect.com/science/article/pii/S0304397520304989?via%3Dihub)
 
-**Obs**:  The paper has been published on Theoretical Computer Science, Volume 843, 2 December 2020, Pages 136-152. You can temporally access the final version of the paper at https://authors.elsevier.com/a/1btB615DaI4NjT
+**Obs**:  The paper has been published on Theoretical Computer Science, Volume 843, 2 December 2020, Pages 136-152. You can temporally access the final version of the paper [here](https://authors.elsevier.com/a/1btB615DaI4NjT)
 
 - [Valle, M. E., & Lobo, R. A. (2020). Hypercomplex-Valued Recurrent Correlation Neural Networks. arXiv preprint arXiv:2002.00027.](https://www.researchgate.net/publication/339015274_Hypercomplex-Valued_Recurrent_Correlation_Neural_Networks)
 
