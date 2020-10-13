@@ -26,9 +26,11 @@
 ### Últimas presentaciones 
 ---
 
-- [Ensamble RCAM](https://www.youtube.com/watch?v=UUG2lNxfjpI&t=2s) 
+-[Hypercomplex Valued Recurrent Correlation Neural Networks](https://noticias.utem.cl/2020/10/08/departamento-de-matematicas-invita-al-seminario-matbio-utem-2020-9/?fbclid=IwAR1_oxfv3FXX5yYEvwzNyJaY-_TDlJIXT18-Jcz5f0m5rsbGWgRpRu6rbYo)
 
-- [QRPNNs](/pdf/BRACIS_19_Presentacion.pdf) 
+- [Ensamble of Binary Classifiers Using Recurrent Correlation Associative Memories](https://www.youtube.com/watch?v=UUG2lNxfjpI&t=2s) 
+
+- [Quaternionic Recurrent Projection Neural Networks](/pdf/BRACIS_19_Presentacion.pdf) 
 
 - [A Brief Tutorial on Quadratic Stability of Linear Parameter-Varying Model for Biomathematical Systems](/pdf/SLIDE_206_jmp.pdf) 
 
