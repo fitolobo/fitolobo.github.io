@@ -27,6 +27,7 @@
 ---
 
 - [Hypercomplex Valued Recurrent Correlation Neural Networks](https://noticias.utem.cl/2020/10/08/departamento-de-matematicas-invita-al-seminario-matbio-utem-2020-9/?fbclid=IwAR1_oxfv3FXX5yYEvwzNyJaY-_TDlJIXT18-Jcz5f0m5rsbGWgRpRu6rbYo) Grupo MAT-Bio UTEM.
+**Obs**: [Link video](https://www.facebook.com/matbio.utem/videos/342211716839533/)
 
 - [Ensamble of Binary Classifiers Using Recurrent Correlation Associative Memories](https://www.youtube.com/watch?v=UUG2lNxfjpI&t=2s) BRACIS 2020.
 
