@@ -8,6 +8,8 @@
 
 - [Lobo, R. A., & Valle, M. E. (2020). Ensemble of Binary Classifiers Combined Using Recurrent Correlation Associative Memories. arXiv preprint arXiv:2009.08578.](https://www.researchgate.net/publication/344324769_Ensemble_of_Binary_Classifiers_Combined_Using_Recurrent_Correlation_Associative_Memories)
 
+**Obs**: The proceedings has benn published on the 9th Brazilian Conference, BRACIS 2020, Rio Grande, Brazil, October 20–23, 2020, Proceedings, Part II [here!](https://link.springer.com/chapter/10.1007/978-3-030-61380-8_30)
+
 - [Lobo, R. A., Palma, J. M., Morais, C. F., Carvalho, L. D. P., Valle, M. E., & Oliveira, C. R. (2019, November). A Brief Tutorial on Quadratic Stability of Linear Parameter-Varying Model for Biomathematical Systems. In 2019 IEEE CHILEAN Conference on Electrical, Electronics Engineering, Information and Communication Technologies (CHILECON) (pp. 1-6). IEEE.](https://www.researchgate.net/publication/339173760_A_Brief_Tutorial_on_Quadratic_Stability_of_Linear_Parameter-Varying_Model_for_Biomathematical_Systems)
 
 - [Barros, L. C., Sanchez, D., Lobo, R., & Esmi, E. (2019, August). Free Mechanical Vibrations Models via p-fuzzy Systems. In 2019 Conference of the International Fuzzy Systems Association and the European Society for Fuzzy Logic and Technology (EUSFLAT 2019). Atlantis Press.](https://www.researchgate.net/publication/335809207_Free_Mechanical_Vibrations_Models_via_p-fuzzy_Systems)
