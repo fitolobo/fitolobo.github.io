@@ -38,6 +38,7 @@
 - [Quaternionic Recurrent Projection Neural Networks](/pdf/BRACIS_19_Presentacion.pdf) BRACIS 2019.
 
 - [A Brief Tutorial on Quadratic Stability of Linear Parameter-Varying Model for Biomathematical Systems](/pdf/SLIDE_206_jmp.pdf) ChileCon 2019.
+**Obs**:[Link video](https://www.youtube.com/watch?v=Rvy6b6vm2iU)
 
 ---
 ### [Cursos](/sample_page5.html)
