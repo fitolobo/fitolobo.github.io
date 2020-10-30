@@ -19,13 +19,18 @@
 - [Morillo, C. C. E., Carrasco, R. A. L., & da Costa Meyer, J. F. (2018). Dinâmica de HIV e posterior AIDS. Proceeding Series of the Brazilian Society of Computational and Applied Mathematics, 6(2).](https://www.researchgate.net/publication/329788475_Dinamica_de_HIV_e_posterior_AIDS)
 
 ---
-### Códigos en Julia de Redes Hipercomplejas
+### Códigos en Julia y Python de Redes Hipercomplejas y sus Aplicaciones.
 ---
+-[Ensemble basado en Redes Neuronales por Correlación Recurrentes](https://github.com/fitolobo/RCAM-Ensemble-Classifier)
 
-- [Redes Neuronales Hipercomplejas](https://github.com/fitolobo)
+- [Redes Neuronales Recurrentes Hipercomplejas](https://github.com/fitolobo/Hypercomplex-Valued-Recurrent-Correlation-Neural-Networks)
+
+- [Red Neuronal Recurrente Cuaternionica por Proyección en Quaternios Unitarios](https://github.com/fitolobo/Quaternion-valued-Recurrent-Projection-Neural-Networks)
+
+- [Learning Rules to Hopfield Type Associative Memories](https://github.com/fitolobo/Learning-Rules-to-Hopfield-Type-Associative-Memories)
 
 ---
-### Últimas presentaciones 
+### Videos y presentaciones de los últimos trabajos
 ---
 
 - [Hypercomplex-Valued Recurrent Neural Networks and their Applications for Image Reconstruction and Pattern Classification](http://www.ime.unicamp.br/~encpos/) 
