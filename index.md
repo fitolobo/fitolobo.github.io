@@ -26,7 +26,7 @@
 
 - [Redes Neuronales Recurrentes Hipercomplejas](https://github.com/fitolobo/Hypercomplex-Valued-Recurrent-Correlation-Neural-Networks)
 
-- [Red Neuronal Recurrente Cuaternionica por Proyección en Quaternios Unitarios](https://github.com/fitolobo/Quaternion-valued-Recurrent-Projection-Neural-Networks)
+- [Red Neuronal Recurrente Cuaternionica por Proyección en Cuaternios Unitarios](https://github.com/fitolobo/Quaternion-valued-Recurrent-Projection-Neural-Networks)
 
 - [Learning Rules to Hopfield Type Associative Memories](https://github.com/fitolobo/Learning-Rules-to-Hopfield-Type-Associative-Memories)
 
