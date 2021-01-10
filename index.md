@@ -2,7 +2,7 @@
 ---
 - [Valle, M. E., & Lobo, R. A. (2020). Quaternion-Valued Recurrent Projection Neural Networks on Unit Quaternions.](https://www.sciencedirect.com/science/article/abs/pii/S0304397520304989)
 
-- [Valle, M. E., & Lobo, R. A. (2020). Hypercomplex-Valued Recurrent Correlation Neural Networks.] You can temporally access the pre-proof version of the paper [here!.](https://www.sciencedirect.com/science/article/abs/pii/S0925231220319342)
+- [Valle, M. E., & Lobo, R. A. (2020). Hypercomplex-Valued Recurrent Correlation Neural Networks](https://www.sciencedirect.com/science/article/abs/pii/S0925231220319342)
 
 - [Lobo, R. A., & Valle, M. E. (2020). Ensemble of Binary Classifiers Combined Using Recurrent Correlation Associative Memories. arXiv preprint arXiv:2009.08578.](https://www.researchgate.net/publication/344324769_Ensemble_of_Binary_Classifiers_Combined_Using_Recurrent_Correlation_Associative_Memories)
 
