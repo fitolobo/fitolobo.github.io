@@ -38,12 +38,13 @@
 - [Hypercomplex Valued Recurrent Correlation Neural Networks. Grupo MAT-Bio UTEM.]
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fmatbio.utem%2Fvideos%2F342211716839533%2F&show_text=false&width=560" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
+- [A Brief Tutorial on Quadratic Stability of Linear Parameter-Varying Model for Biomathematical Systems](/pdf/SLIDE_206_jmp.pdf) ChileCon 2019.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rvy6b6vm2iU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - [Ensamble of Binary Classifiers Using Recurrent Correlation Associative Memories](https://www.youtube.com/watch?v=UUG2lNxfjpI&t=2s) BRACIS 2020.
 
 - [Quaternionic Recurrent Projection Neural Networks](/pdf/BRACIS_19_Presentacion.pdf) BRACIS 2019.
 
-- [A Brief Tutorial on Quadratic Stability of Linear Parameter-Varying Model for Biomathematical Systems](/pdf/SLIDE_206_jmp.pdf) ChileCon 2019.
-**Obs**: [Link video](https://www.youtube.com/watch?v=Rvy6b6vm2iU)
 
 ---
 ### [Cursos](/sample_page5.html)
