@@ -33,7 +33,7 @@
 ---
 
 -- [Hypercomplex-Valued Recurrent Neural Networks and their Dynamics](https://www.ime.unicamp.br/~encpos/?p=submissoes) 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=P0dySNqxUnA&t=27s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P0dySNqxUnA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - [Hypercomplex Valued Recurrent Correlation Neural Networks](https://noticias.utem.cl/2020/10/08/departamento-de-matematicas-invita-al-seminario-matbio-utem-2020-9/?fbclid=IwAR1_oxfv3FXX5yYEvwzNyJaY-_TDlJIXT18-Jcz5f0m5rsbGWgRpRu6rbYo) Grupo MAT-Bio UTEM.
 **Obs**: [Link video](https://www.facebook.com/matbio.utem/videos/342211716839533/)
