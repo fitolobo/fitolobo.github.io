@@ -20,11 +20,11 @@
 ### Códigos en Julia y Python de Redes Hipercomplejas y sus Aplicaciones.
 ---
 
-- [Ensemble basado en Redes Neuronales por Correlación Recurrentes](https://github.com/fitolobo/RCAM-Ensemble-Classifier)
+- [RCNN-based Ensemble Classifiers](https://github.com/fitolobo/RCAM-Ensemble-Classifier)
 
-- [Redes Neuronales Recurrentes Hipercomplejas](https://github.com/fitolobo/Hypercomplex-Valued-Recurrent-Correlation-Neural-Networks)
+- [Hypercomplex-valued Recurrent Correlation Neural Networks](https://github.com/fitolobo/Hypercomplex-Valued-Recurrent-Correlation-Neural-Networks)
 
-- [Red Neuronal Recurrente Cuaternionica por Proyección en Cuaternios Unitarios](https://github.com/fitolobo/Quaternion-valued-Recurrent-Projection-Neural-Networks)
+- [Quaternion-valued Recurrent Projection Neural Network](https://github.com/fitolobo/Quaternion-valued-Recurrent-Projection-Neural-Networks)
 
 - [Learning Rules to Hopfield Type Associative Memories](https://github.com/fitolobo/Learning-Rules-to-Hopfield-Type-Associative-Memories)
 
