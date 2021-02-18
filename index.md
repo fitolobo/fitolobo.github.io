@@ -1,4 +1,4 @@
-### Publicaciones
+### Publications
 ---
 - [Valle, M. E., & Lobo, R. A. (2020). Quaternion-Valued Recurrent Projection Neural Networks on Unit Quaternions.](https://www.sciencedirect.com/science/article/abs/pii/S0304397520304989)
 
@@ -17,7 +17,7 @@
 - [Morillo, C. C. E., Carrasco, R. A. L., & da Costa Meyer, J. F. (2018). Dinâmica de HIV e posterior AIDS. Proceeding Series of the Brazilian Society of Computational and Applied Mathematics, 6(2).](https://www.researchgate.net/publication/329788475_Dinamica_de_HIV_e_posterior_AIDS)
 
 ---
-### Códigos en Julia y Python de Redes Hipercomplejas y sus Aplicaciones.
+### Julia and Python Codes
 ---
 
 - [RCNN-based Ensemble Classifiers](https://github.com/fitolobo/RCAM-Ensemble-Classifier)
@@ -29,7 +29,7 @@
 - [Learning Rules to Hopfield Type Associative Memories](https://github.com/fitolobo/Learning-Rules-to-Hopfield-Type-Associative-Memories)
 
 ---
-### Videos y presentaciones de los últimos trabajos
+### Videos
 ---
 
 -- [Hypercomplex-Valued Recurrent Neural Networks and their Dynamics](https://www.ime.unicamp.br/~encpos/?p=submissoes) 
